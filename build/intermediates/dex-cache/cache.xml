@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Avi/SandBox/dtmf-decoder/app/src/main/java/libs/apphance.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f436e68f2e7b6be75f9cacc94c25c04829bef2ee">
+        <dex dex="/Users/Avi/SandBox/dtmf-decoder/app/build/intermediates/transforms/dex/debug/folders/1000/2/apphance_4cb8bb7524cc4e9091ea9051d9cba8e755f11531/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Avi/SandBox/dtmf-decoder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="99174074d1ef26fd9d84a1dd941218adeaf1c35c">
+        <dex dex="/Users/Avi/SandBox/dtmf-decoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_439557a1bdbd6e9ab21a20fbb9a3c1425d6bdcdf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Avi/SandBox/dtmf-decoder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9b2b325156d9a88196f7cca9fbb65eef56568841">
+        <dex dex="/Users/Avi/SandBox/dtmf-decoder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec5c32df961474a1ea45b1c74bcc7b38a73cc64c/classes.dex" />
+    </item>
+
+</items>
