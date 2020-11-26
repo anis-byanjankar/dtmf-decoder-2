@@ -1,5 +1,9 @@
 package wpam.recognizer;
 
+import android.os.AsyncTask;
+import android.os.Build;
+import android.util.Log;
+
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
@@ -34,18 +38,28 @@ public class Controller
 			recordTask = new RecordTask(this,blockingQueue);
 			
 			recognizerTask = new RecognizerTask(this,blockingQueue);
-			
-			recordTask.execute();
-			recognizerTask.execute();
-			
 			started = true;
+
+
+			if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
+				recordTask.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
+				recognizerTask.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
+
+			} else {
+				recordTask.execute();
+
+				recognizerTask.execute();
+			}
+
+			Log.d("ANish","Started------");
+
 		} else {
 			
 			mainActivity.stop();
-			
+			Log.d("ANish","CLOSED------");
 			recognizerTask.cancel(true);
 			recordTask.cancel(true);
-			
+
 			started = false;
 		}
 	}

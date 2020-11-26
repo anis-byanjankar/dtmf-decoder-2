@@ -3,6 +3,7 @@ package wpam.recognizer;
 import java.util.concurrent.BlockingQueue;
 
 import android.os.AsyncTask;
+import android.util.Log;
 
 public class RecognizerTask extends AsyncTask<Void, Object, Void> {
 	
@@ -25,6 +26,7 @@ public class RecognizerTask extends AsyncTask<Void, Object, Void> {
 	{
 		while(controller.isStarted())
 		{
+			Log.d("RecognizerTask","Processing.....");
 			try {
 				DataBlock dataBlock = blockingQueue.take();
 								
@@ -38,8 +40,8 @@ public class RecognizerTask extends AsyncTask<Void, Object, Void> {
 												
 				publishProgress(spectrum, key);
 				
-				SpectrumFragment spectrumFragment = new SpectrumFragment(75, 100, spectrum);
-				publishProgress(spectrum, spectrumFragment.getMax());
+//				SpectrumFragment spectrumFragment = new SpectrumFragment(75, 100, spectrum);
+//				publishProgress(spectrum, spectrumFragment.getMax());
 				
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
@@ -54,9 +56,10 @@ public class RecognizerTask extends AsyncTask<Void, Object, Void> {
 		Spectrum spectrum = (Spectrum)progress[0];
 		controller.spectrumReady(spectrum);
 		
-		Character key = (Character)progress[1];
-		controller.keyReady(key);
-//		Integer key = (Integer)progress[1];
-//		controller.debug(key.toString());
+		Character key = (Character) progress[1];
+		Log.d("Key", String.valueOf(key));
+		controller.keyReady(key.charValue());
+//		Integer key1 = (Integer)progress[1];
+//		controller.debug(key1.toString());
     }
 }

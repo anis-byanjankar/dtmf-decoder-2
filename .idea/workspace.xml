@@ -6,270 +6,79 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e838dfc-51b2-4386-862f-ce7887662d71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dtmf-decoder-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Avi.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/apphance.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/wpam/recognizer/test/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/wpam/recognizer/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/math/Complex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/math/DFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/math/FFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/math/Tools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/DataBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/HistoryActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/HistoryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/HistoryRowAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/NumericKeyboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/Recognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/RecognizerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/RecordTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/Spectrum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/SpectrumFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/SpectrumView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/StatelessRecognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/wpam/recognizer/Tone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/math/Complex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/math/DFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/math/FFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/math/Tools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/DataBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/HistoryActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/HistoryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/HistoryRowAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/NumericKeyboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/Recognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/RecognizerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/RecordTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/Spectrum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/SpectrumFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/SpectrumView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/StatelessRecognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/wpam/recognizer/Tone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAidl/dependency.store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/classes.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/coldswap.marker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package.marker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/reload-changes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/resources.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_history.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_send.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_send.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_template.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_history.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_send.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/history.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/history_row.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_439557a1bdbd6e9ab21a20fbb9a3c1425d6bdcdf/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec5c32df961474a1ea45b1c74bcc7b38a73cc64c/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/2/apphance_4cb8bb7524cc4e9091ea9051d9cba8e755f11531/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/math/Complex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/math/DFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/math/FFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/math/Tools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/DataBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/HistoryActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/HistoryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/HistoryRowAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/NumericKeyboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/Recognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/RecognizerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/RecordTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/Spectrum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/SpectrumFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/SpectrumView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/StatelessRecognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wpam/recognizer/Tone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/math/Complex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/math/DFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/math/FFT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/math/Tools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/DataBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/HistoryActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/HistoryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/HistoryRowAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/NumericKeyboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/Recognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/RecognizerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/RecordTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/Spectrum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/SpectrumFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/SpectrumView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/StatelessRecognizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/wpam/recognizer/Tone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Apphance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Apphance$ApphanceServiceConnection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Apphance$ApphanceServiceConnection$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Apphance$ApphanceServiceConnection$ApphanceUncaughtExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Apphance$ApphanceServiceConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Apphance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceCallbackInterface$Stub$Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceCallbackInterface$Stub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceCallbackInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceService$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceService$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceService$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceServiceInterface$Stub$Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceServiceInterface$Stub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/ApphanceServiceInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/Log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R$xml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/DebugInfo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/DebugInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/Tree$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/TreeBranch$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/TreeBranch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/TreeItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/TreeValue$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/TreeValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/Version$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/apphance.jar_2mh1dpze4p3aoxyws239w1yau/pl/polidea/apphance/common/Version.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/out/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/cYJod42kJhfwz3Ar84GhKqi4V8o=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/cYJod42kJhfwz3Ar84GhKqi4V8o=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/linked_res_for_bundle/debug/bundleDebugResources/bundled-res.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/linked_res_for_bundle/debug/bundleDebugResources/bundled-res.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/Complex.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/Complex.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/DFT.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/DFT.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/FFT.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/FFT.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/Tools.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/math/Tools.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Controller.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Controller.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/DataBlock.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/DataBlock.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/History.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/History.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/HistoryActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/HistoryActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/HistoryItem.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/HistoryItem.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/HistoryRowAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/HistoryRowAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/MainActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/NumericKeyboard.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/NumericKeyboard.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/R.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Recognizer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Recognizer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/RecognizerTask.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/RecognizerTask.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/RecordTask.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/RecordTask.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Spectrum.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Spectrum.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/SpectrumFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/SpectrumFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/SpectrumView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/SpectrumView.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/StatelessRecognizer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/StatelessRecognizer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Tone.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/wpam/recognizer/Tone.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/libs/apphance.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecordTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecordTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dtmf-decoder.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -304,7 +113,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="210846df01037ece" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="22c4b75619017ece" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -315,50 +124,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="227" column="23" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="23" />
+            <state relative-caret-position="142">
+              <caret line="113" selection-start-line="113" selection-end-line="113" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1538#1636#0" expanded="true" />
                 <element signature="e#1635#1636#0" expanded="true" />
+                <element signature="e#1738#1830#0" expanded="true" />
+                <element signature="e#1829#1830#0" expanded="true" />
+                <element signature="e#3897#3898#0" expanded="true" />
+                <element signature="e#3940#3941#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-24/android.jar!/android/view/View.class">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/math/FFT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="299" column="19" selection-start-line="299" selection-start-column="19" selection-end-line="299" selection-end-column="19" />
+            <state relative-caret-position="79">
+              <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/view/View.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="338" column="19" selection-start-line="338" selection-start-column="19" selection-end-line="338" selection-end-column="19" />
               <folding>
-                <element signature="e#13564#13565#0" expanded="true" />
-                <element signature="e#13615#13616#0" expanded="true" />
+                <element signature="e#0#87529#0" expanded="true" />
+                <element signature="e#16153#16154#0" expanded="true" />
+                <element signature="e#16204#16205#0" expanded="true" />
+                <element signature="e#19130#19131#0" expanded="true" />
+                <element signature="e#19181#19182#0" expanded="true" />
+                <element signature="e#61861#61862#0" expanded="true" />
+                <element signature="e#61912#61913#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/widget/TextView.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#35341#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -367,10 +182,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="79">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
                 <element signature="e#1096#1097#0" expanded="true" />
                 <element signature="e#1139#1140#0" expanded="true" />
                 <element signature="e#1191#1192#0" expanded="true" />
@@ -382,32 +201,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecordTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="46" column="29" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="127">
+              <caret line="62" column="16" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="62" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/SpectrumFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Recognizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-212">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Spectrum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecordTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -417,7 +257,16 @@
       <find>getAudioSource</find>
       <find>started</find>
       <find>isStarted</find>
+      <find>APP_KEY</find>
+      <find>Apphance</find>
+      <find>recognizeredText</find>
+      <find>addText</find>
+      <find>keyReady</find>
+      <find>RecognizerTask</find>
       <find>blockingQueue</find>
+      <find>changeState</find>
+      <find>System.ou</find>
+      <find>Log.d</find>
       <find>recognizer</find>
     </findStrings>
   </component>
@@ -431,6 +280,7 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecordTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java" />
       </list>
     </option>
@@ -534,6 +384,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="22c4b75619017ece" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-26T12:10:47.223Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../dtmf-decoder-3" />
   </component>
@@ -685,7 +537,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3295302" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23557048" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -695,7 +547,7 @@
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Logcat" order="2" visible="true" weight="0.40084985" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="2" visible="true" weight="0.59490085" />
       <window_info anchor="bottom" id="TODO" order="3" weight="0.3286119" />
       <window_info anchor="bottom" id="Android Profiler" order="4" weight="0.3286119" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
@@ -714,22 +566,54 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java</url>
-          <line>38</line>
+          <url>file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java</url>
+          <line>59</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java</url>
-          <line>33</line>
+          <line>57</line>
           <properties />
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>key.charValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Character) ((Character) progress[1]).charValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Character) progress[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Integer) progress[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>controller.isStarted()</expression-string>
         <language-id>JAVA</language-id>
@@ -746,20 +630,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/app/src/main/java/libs/apphance.jar!/pl/polidea/apphance/Apphance.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -779,31 +649,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/DataBlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="227" column="23" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="23" />
+        <state relative-caret-position="572">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Tone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/SpectrumView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1538#1636#0" expanded="true" />
-            <element signature="e#1635#1636#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/history_row.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/history.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/NumericKeyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-24/android.jar!/java/util/concurrent/FutureTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-24/android.jar!/java/util/concurrent/ThreadPoolExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#5708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/concurrent/ThreadPoolExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="924" selection-start-line="924" selection-end-line="924" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-24/android.jar!/android/os/AsyncTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#2364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/os/AsyncTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#2364#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/view/accessibility/AccessibilityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="338" column="19" selection-start-line="338" selection-start-column="19" selection-end-line="338" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#87529#0" expanded="true" />
+            <element signature="e#16153#16154#0" expanded="true" />
+            <element signature="e#16204#16205#0" expanded="true" />
+            <element signature="e#19130#19131#0" expanded="true" />
+            <element signature="e#19181#19182#0" expanded="true" />
+            <element signature="e#61861#61862#0" expanded="true" />
+            <element signature="e#61912#61913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/widget/TextView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Spectrum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/math/FFT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecordTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="46" column="29" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="29" />
+        <state relative-caret-position="225">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="79">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
             <element signature="e#1096#1097#0" expanded="true" />
             <element signature="e#1139#1140#0" expanded="true" />
             <element signature="e#1191#1192#0" expanded="true" />
@@ -814,10 +839,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1538#1636#0" expanded="true" />
+            <element signature="e#1635#1636#0" expanded="true" />
+            <element signature="e#1738#1830#0" expanded="true" />
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#3897#3898#0" expanded="true" />
+            <element signature="e#3940#3941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/java/lang/Character.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12078">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/Recognizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/SpectrumFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/wpam/recognizer/RecognizerTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="127">
+          <caret line="62" column="16" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="62" selection-end-column="16" />
         </state>
       </provider>
     </entry>

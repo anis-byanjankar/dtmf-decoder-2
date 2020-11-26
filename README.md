@@ -14,6 +14,4 @@ TProject source http://code.google.com/p/dtmf-decoder.
 
 Code license: [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html).
 
-It was created for Android 2.2.3 (Froyo) Imported into android studio and tested successfully on android 6.
-
-The project is no longer maintained.
+It was created for Android 2.2.3 (Froyo) Imported into android studio and tested successfully on android 29.

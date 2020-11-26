@@ -1,6 +1,5 @@
 package wpam.recognizer;
 
-import pl.polidea.apphance.Apphance;
 import android.R.string;
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -39,14 +38,11 @@ public class MainActivity extends Activity {
 
 	History history;
 	
-	public static final String APP_KEY = "806785c1fb7aed8a867039282bc21993eedbc4e4";
-	
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
-//		Apphance.start(this, APP_KEY);
-		
+
 		setContentView(R.layout.main);
 		
 		controller = new Controller(this);

@@ -87,8 +87,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 24 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\82107\AndroidStudioProjects\dtmf-decoder-2\app\src\main\java\libs\apphance.jar:unspecified@jar" level="project" />
   </component>
 </module>

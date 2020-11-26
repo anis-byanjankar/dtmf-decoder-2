@@ -1,0 +1,4 @@
+#Thu Nov 26 21:10:42 KST 2020
+base.0=C\:\\Users\\82107\\AndroidStudioProjects\\dtmf-decoder-2\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -7,6 +7,7 @@ import math.FFT;
 import android.media.AudioFormat;
 import android.media.AudioRecord;
 import android.os.AsyncTask;
+import android.util.Log;
 
 public class RecordTask extends AsyncTask<Void, Object, Void> {
 	
@@ -41,14 +42,16 @@ public class RecordTask extends AsyncTask<Void, Object, Void> {
 			while (controller.isStarted())
 			{
 				int bufferReadSize = audioRecord.read(buffer, 0, blockSize);
-				System.out.println(Arrays.toString(buffer));
+//				Log.d("MicTest",Arrays.toString(buffer));
+				Log.d("RecordTask","Recording Audio.....");
+
 				DataBlock dataBlock = new DataBlock(buffer, blockSize, bufferReadSize);
 				
 				blockingQueue.put(dataBlock);
 			}
 			
 		} catch (Throwable t) {
-			//Log.e("AudioRecord", "Recording Failed");
+			Log.e("AudioRecord", "Recording Failed");
 		}
 		
 		audioRecord.stop();
