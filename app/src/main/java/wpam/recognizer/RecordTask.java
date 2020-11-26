@@ -1,5 +1,6 @@
 package wpam.recognizer;
 
+import java.util.Arrays;
 import java.util.concurrent.BlockingQueue;
 
 import math.FFT;
@@ -40,7 +41,7 @@ public class RecordTask extends AsyncTask<Void, Object, Void> {
 			while (controller.isStarted())
 			{
 				int bufferReadSize = audioRecord.read(buffer, 0, blockSize);
-				
+				System.out.println(Arrays.toString(buffer));
 				DataBlock dataBlock = new DataBlock(buffer, blockSize, bufferReadSize);
 				
 				blockingQueue.put(dataBlock);

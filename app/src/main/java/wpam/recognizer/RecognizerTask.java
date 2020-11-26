@@ -38,8 +38,8 @@ public class RecognizerTask extends AsyncTask<Void, Object, Void> {
 												
 				publishProgress(spectrum, key);
 				
-//				SpectrumFragment spectrumFragment = new SpectrumFragment(75, 100, spectrum);
-//				publishProgress(spectrum, spectrumFragment.getMax());
+				SpectrumFragment spectrumFragment = new SpectrumFragment(75, 100, spectrum);
+				publishProgress(spectrum, spectrumFragment.getMax());
 				
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block

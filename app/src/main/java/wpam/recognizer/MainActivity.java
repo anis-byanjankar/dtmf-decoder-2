@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-		Apphance.start(this, APP_KEY);
+//		Apphance.start(this, APP_KEY);
 		
 		setContentView(R.layout.main);
 		

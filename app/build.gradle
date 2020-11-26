@@ -1,16 +1,13 @@
 apply plugin: 'com.android.application'
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    compileSdkVersion 24
+    buildToolsVersion "29.0.3"
 
     defaultConfig {
         applicationId "wpam.recognizer"
-        minSdkVersion 5
-        targetSdkVersion 5
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
-        }
+        minSdkVersion 18
+        targetSdkVersion 24
+
     }
 
     buildTypes {
@@ -19,8 +16,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    lintOptions {
+        checkReleaseBuilds false
+    }
 }
 
 dependencies {
-    compile files('src/main/java/libs/apphance.jar')
+    implementation files('src/main/java/libs/apphance.jar')
 }
+
+
